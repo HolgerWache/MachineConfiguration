@@ -10,7 +10,7 @@
 <br />  <br />
 
 ### Check the Result <br />
-There are some possibilietes to check the result
+There are some ways to check the result
 <br />
 
 <details><summary>Azure Policy -- CLICK ME</summary>
